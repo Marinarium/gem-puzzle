@@ -55,7 +55,7 @@ body {
 .btn-change {
     font-size: 18px;
     font-family: sans-serif;
-    background-color: rgba(39, 76, 119, 0.84);
+    background-color: #6096ba;
     color: #e7ecef;
     border: none;
     cursor: pointer;
@@ -70,5 +70,5 @@ body {
 }
 
 .btn-change:hover {
-    background-color: #a3cef1;
+    background-color: rgb(86, 138, 172);
 }
